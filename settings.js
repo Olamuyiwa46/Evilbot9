@@ -22,27 +22,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2347017804748" //ur owner number2
-global.ownername = "🐉𝐈𝐀𝐌𝐗𝐃𝐀—𝐁𝐀𝐃𝐃𝐘🐉" //ur owner name
+global.ownernomer = "2348131165984" //ur owner number2
+global.ownername = "😈𝐌𝐈𝐂𝐇𝐄𝐀𝐋 𝐊𝐈𝐍𝐆𝐒😈" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: iamevilboy" //ur github or insta name
 global.location = "nigeria, lagos, abuja" //ur location
 
 //new
-global.botname = "🐉𝐁𝐀𝐃𝐃𝐘 𝐁𝐎𝐓 𝟎𝟒🐉"
-global.ownernumber = '2347017804748'
-global.ownername = '🐉𝐈𝐀𝐌𝐗𝐃𝐀—𝐁𝐀𝐃𝐃𝐘🐉'
-global.ownerNumber = ["2347017804748@s.whatsapp.net"]
+global.botname = "😈𝐌𝐈𝐂𝐇𝐀𝐄𝐋 𝐊𝐈𝐍𝐆𝐒 𝐁𝐎𝐓😈"
+global.ownernumber = '2348131165984'
+global.ownername = '😈𝐌𝐈𝐂𝐇𝐄𝐀𝐋 𝐊𝐈𝐍𝐆𝐒😈'
+global.ownerNumber = ["2348131165984@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
 global.wagc = "https://chat.whatsapp.com/HQ26izcpZ7yAWXm2yyExSX"
-global.themeemoji = '🐉'
+global.themeemoji = '😈'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "🐉•"
-global.author = "𝑨𝑵𝑻𝑰𝑺𝑶𝑪𝑰𝑨𝑳 𝑯𝑼𝑴𝑰𝑫𝑰𝑻𝒀•🎃\n\n+916909137213"
-global.creator = "2347017804748@s.whatsapp.net"
-global.prefa = ['🐉','!','🐉','#','&']
+global.packname = "😈•"
+global.author = "𝑨𝑵𝑻𝑰𝑺𝑶𝑪𝑰𝑨𝑳 𝑯𝑼𝑴𝑰𝑫𝑰𝑻𝒀•😈\n\n"
+global.creator = "2348131165984@s.whatsapp.net"
+global.prefa = ['😈','!','😈','#','&']
 global.sessionName = 'session'
 global.hituet = 0
 
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Ednut did this!', 
+    success: 'HERE U GO😙', 
 }
 
 let file = require.resolve(__filename)
