@@ -22,25 +22,25 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "2349091006233" //ur owner number2
-global.ownername = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ" //ur owner name
+global.ownernomer = "2349010895477" //ur owner number2
+global.ownername = "🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: iamevilboy" //ur github or insta name
 global.location = "nigeria, lagos, abuja" //ur location
 
 //new
-global.botname = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ ᗷᝪᎢ"
-global.ownernumber = '2349091006233'
-global.ownername = 'ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ'
-global.ownerNumber = ["2349091006233@s.whatsapp.net"]
+global.botname = "🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪"
+global.ownernumber = '2349010895477'
+global.ownername = '🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪'
+global.ownerNumber = ["2349010895477@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtube.com/@DGXeon"
-global.wagc = "https://chat.whatsapp.com/ISPcivRPeI35ny3HXuxrH3"
-global.themeemoji = '😈'
+global.wagc = "https://chat.whatsapp.com/HQ26izcpZ7yAWXm2yyExSX"
+global.themeemoji = '🤪'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "😈•"
-global.author = "ᔑᑭᗴᑕᏆᗩし ᗰᗩ᙭Ꮖᗰᑌᗰ\n\n"
+global.packname = "🤪•"
+global.author = "🤪𝑪𝑨𝑳𝑳 𝑴𝑯𝑬 𝑩𝑼𝑴𝑩𝑼𝑴🤪\n\n"
 global.creator = "2349091006233@s.whatsapp.net"
 global.prefa = ['!','!','😈','#','&']
 global.sessionName = 'session'
